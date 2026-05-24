@@ -8,33 +8,36 @@
 
 ## 📚 Tecnologias e Ferramentas
 
-### 🌐 Front-end
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+## 🚀 Tecnologias e Ferramentas
 
-### 🗄️ Banco de Dados
-- SQL
-- MySQL
-- MongoDB
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
-### ⚙️ Ferramentas
-- Git
-- GitHub
-- VS Code
+  <img align="center" alt="CSS" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-### 📖 Atualmente aprendendo
-- Node.js
-- Python
+  <img align="center" alt="JavaScript" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
----
+  <img align="center" alt="Bootstrap" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
-## 📈 Estatísticas GitHub
+  <img align="center" alt="Git" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julioo-Cezar&show_icons=true&theme=tokyonight)
+  <img align="center" alt="GitHub" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
----
+  <img align="center" alt="MySQL" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+  <img align="center" alt="MongoDB" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
+  <img align="center" alt="Python" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
 
 ## 🐍 Snake Animation
 
