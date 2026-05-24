@@ -4,12 +4,6 @@
 💻 Desenvolvendo habilidades em desenvolvimento web e banco de dados  
 🚀 Em busca da minha primeira oportunidade na área de tecnologia  
 
----
-
-## 📚 Tecnologias e Ferramentas
-
-## 🚀 Tecnologias e Ferramentas
-
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
