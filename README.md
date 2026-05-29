@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" title="Python"/>
 </p>
 
-## 🐍 Snake Animation
 
 ![Snake animation](https://github.com/Julioo-Cezar/Julioo-Cezar/blob/output/github-contribution-grid-snake.svg)
 
