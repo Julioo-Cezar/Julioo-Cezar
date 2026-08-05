@@ -4,7 +4,7 @@
 💻 Desenvolvendo habilidades em desenvolvimento web e banco de dados  
 🚀 Em busca da minha primeira oportunidade na área de tecnologia  
 
- Tecnologias e Ferramentas
+ ##Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="50" title="HTML5"/>
